@@ -1,0 +1,501 @@
+Unnamed,Gender,ParentMaritalStatus,IsFristChild,TransportMean,TestPrep,WritingScore,ReadingScore,MathScore,LunchType,PracticeSport,NrSibling,ParentEducation,EthnicGroup
+1,Male,Single,Yes,Bus,Completed,39,41,35,Free/Reduced,Regularly,0,High School,Group B
+2,Male,Single,No,Bike,Not Completed,81,72,64,Free/Reduced,Regularly,1,PhD,Group C
+3,Female,Divorced,Yes,Bus,Not Completed,45,49,59,Standard,Sometimes,2,Intermediate,Group C
+4,Male,Married,No,Bus,Not Completed,90,86,93,Free/Reduced,Never,1,High School,Group A
+5,Male,Single,Yes,Car,Not Completed,88,89,78,Free/Reduced,Never,2,Bachelor,Group C
+6,Female,Married,Yes,Van,Completed,51,53,62,Standard,Sometimes,3,Master,Group B
+7,Female,Married,No,Car,Not Completed,84,93,83,Standard,Regularly,4,Master,Group B
+8,Female,Single,No,Bike,Completed,75,65,72,Free/Reduced,Never,4,PhD,Group D
+9,Female,Widowed,Yes,Bus,Completed,48,54,55,Standard,Never,1,PhD,Group A
+10,Female,Divorced,Yes,Bus,Not Completed,73,64,70,Free/Reduced,Regularly,2,PhD,Group B
+11,Female,Single,Yes,Walk,Completed,38,40,43,Standard,Sometimes,1,Intermediate,Group A
+12,Female,Divorced,No,Bike,Completed,61,71,57,Standard,Never,0,High School,Group D
+13,Male,Single,Yes,Car,Completed,95,88,100,Free/Reduced,Never,4,PhD,Group B
+14,Male,Divorced,No,Van,Not Completed,84,85,84,Standard,Regularly,1,High School,Group C
+15,Male,Single,Yes,Bus,Completed,84,77,75,Standard,Regularly,0,Master,Group A
+16,Male,Single,No,Bike,Not Completed,62,57,53,Free/Reduced,Regularly,0,High School,Group D
+17,Female,Married,Yes,Bus,Not Completed,70,67,70,Free/Reduced,Regularly,1,Bachelor,Group B
+18,Female,Divorced,No,Bike,Completed,51,48,42,Free/Reduced,Never,0,High School,Group A
+19,Male,Widowed,No,Car,Completed,96,99,90,Free/Reduced,Regularly,1,PhD,Group A
+20,Female,Widowed,No,Bike,Completed,60,56,55,Free/Reduced,Regularly,0,Intermediate,Group A
+21,Female,Widowed,Yes,Bus,Completed,35,43,45,Standard,Regularly,4,High School,Group B
+22,Female,Married,Yes,Car,Not Completed,55,47,46,Free/Reduced,Regularly,5,Master,Group B
+23,Female,Divorced,No,Walk,Completed,59,65,71,Standard,Sometimes,4,Intermediate,Group A
+24,Male,Divorced,Yes,Walk,Completed,70,74,76,Standard,Sometimes,2,Bachelor,Group D
+25,Female,Married,No,Bus,Completed,89,79,88,Free/Reduced,Regularly,0,Intermediate,Group B
+26,Female,Divorced,Yes,Walk,Not Completed,67,58,56,Free/Reduced,Regularly,0,PhD,Group C
+27,Male,Single,No,Bike,Not Completed,40,40,52,Free/Reduced,Never,0,High School,Group A
+28,Male,Single,No,Bike,Completed,65,74,68,Free/Reduced,Sometimes,0,Master,Group B
+29,Male,Widowed,Yes,Bike,Completed,75,82,77,Standard,Sometimes,0,Bachelor,Group C
+30,Female,Single,Yes,Car,Completed,88,91,85,Free/Reduced,Regularly,1,PhD,Group C
+31,Female,Married,Yes,Car,Not Completed,89,92,85,Free/Reduced,Regularly,2,Master,Group D
+32,Female,Divorced,Yes,Van,Not Completed,90,100,86,Standard,Regularly,4,PhD,Group C
+33,Female,Married,No,Van,Completed,76,67,75,Free/Reduced,Regularly,5,PhD,Group A
+34,Male,Divorced,No,Bus,Not Completed,66,63,54,Free/Reduced,Never,3,Master,Group D
+35,Female,Widowed,No,Bike,Not Completed,69,75,66,Free/Reduced,Never,0,Master,Group C
+36,Male,Divorced,No,Car,Not Completed,75,67,78,Standard,Never,3,Bachelor,Group A
+37,Female,Divorced,Yes,Bike,Not Completed,82,72,84,Standard,Regularly,1,High School,Group A
+38,Male,Married,No,Car,Completed,79,70,86,Free/Reduced,Sometimes,3,Bachelor,Group B
+39,Male,Widowed,Yes,Bike,Not Completed,90,97,100,Standard,Never,1,High School,Group D
+40,Male,Divorced,No,Van,Not Completed,95,91,100,Free/Reduced,Regularly,5,PhD,Group D
+41,Female,Divorced,No,Bike,Not Completed,85,88,94,Free/Reduced,Regularly,5,Master,Group B
+42,Female,Married,Yes,Bike,Completed,61,61,66,Free/Reduced,Never,1,Bachelor,Group A
+43,Female,Widowed,No,Bus,Completed,66,66,71,Free/Reduced,Sometimes,4,High School,Group D
+44,Female,Widowed,No,Van,Completed,41,40,37,Free/Reduced,Regularly,2,PhD,Group D
+45,Male,Widowed,Yes,Car,Completed,64,64,73,Standard,Sometimes,4,Intermediate,Group A
+46,Male,Widowed,Yes,Bus,Not Completed,84,81,74,Free/Reduced,Sometimes,1,PhD,Group C
+47,Female,Widowed,No,Bus,Not Completed,90,88,85,Standard,Never,4,High School,Group C
+48,Male,Married,Yes,Bike,Completed,73,81,89,Standard,Never,1,Bachelor,Group B
+49,Female,Single,No,Walk,Not Completed,75,82,84,Standard,Never,4,High School,Group B
+50,Female,Divorced,No,Car,Completed,54,46,38,Standard,Never,5,Bachelor,Group A
+51,Female,Married,No,Van,Not Completed,100,94,88,Free/Reduced,Regularly,4,Master,Group A
+52,Female,Widowed,No,Car,Completed,97,92,85,Free/Reduced,Regularly,5,Intermediate,Group C
+53,Female,Divorced,No,Bike,Completed,72,69,81,Free/Reduced,Sometimes,1,PhD,Group D
+54,Female,Single,No,Bike,Not Completed,46,41,41,Free/Reduced,Sometimes,2,Intermediate,Group C
+55,Male,Single,No,Car,Completed,69,73,61,Free/Reduced,Never,5,PhD,Group D
+56,Male,Widowed,Yes,Walk,Not Completed,44,45,39,Free/Reduced,Never,4,Master,Group D
+57,Female,Divorced,No,Bike,Completed,66,62,60,Standard,Sometimes,0,Intermediate,Group B
+58,Male,Divorced,Yes,Bike,Not Completed,58,53,51,Standard,Sometimes,1,Master,Group A
+59,Male,Divorced,Yes,Car,Completed,48,57,41,Standard,Never,2,PhD,Group D
+60,Female,Divorced,No,Bus,Completed,56,61,47,Free/Reduced,Sometimes,0,Intermediate,Group A
+61,Male,Married,Yes,Bus,Not Completed,57,49,50,Standard,Never,3,PhD,Group D
+62,Female,Divorced,Yes,Van,Completed,100,95,98,Standard,Never,1,Master,Group A
+63,Male,Married,Yes,Bus,Not Completed,50,55,57,Free/Reduced,Never,4,PhD,Group C
+64,Male,Divorced,No,Bus,Completed,53,54,63,Free/Reduced,Never,4,Bachelor,Group D
+65,Male,Single,No,Bike,Completed,71,74,80,Standard,Regularly,2,Intermediate,Group C
+66,Female,Divorced,No,Walk,Not Completed,51,47,59,Free/Reduced,Regularly,4,High School,Group D
+67,Female,Married,Yes,Van,Completed,76,78,65,Free/Reduced,Never,0,Bachelor,Group D
+68,Female,Widowed,No,Bus,Not Completed,96,98,90,Free/Reduced,Sometimes,2,Master,Group A
+69,Male,Widowed,No,Car,Completed,64,61,72,Free/Reduced,Regularly,2,Master,Group C
+70,Male,Married,No,Car,Completed,91,89,94,Standard,Never,2,Intermediate,Group D
+71,Female,Divorced,Yes,Walk,Not Completed,79,88,77,Free/Reduced,Regularly,0,Intermediate,Group B
+72,Male,Widowed,Yes,Bike,Completed,66,59,50,Free/Reduced,Regularly,5,Bachelor,Group D
+73,Female,Widowed,No,Bike,Not Completed,70,72,72,Standard,Sometimes,1,Intermediate,Group B
+74,Male,Divorced,Yes,Walk,Not Completed,60,57,56,Free/Reduced,Regularly,3,Intermediate,Group D
+75,Female,Widowed,No,Walk,Completed,68,61,76,Standard,Never,3,Bachelor,Group D
+76,Male,Widowed,No,Bike,Not Completed,65,60,72,Standard,Regularly,4,Intermediate,Group C
+77,Male,Widowed,Yes,Bike,Not Completed,99,95,88,Standard,Regularly,3,Master,Group C
+78,Female,Widowed,No,Car,Completed,73,81,75,Standard,Regularly,5,Master,Group B
+79,Male,Married,No,Bike,Not Completed,60,67,75,Standard,Regularly,2,High School,Group C
+80,Female,Single,No,Van,Completed,66,63,56,Standard,Regularly,0,Intermediate,Group D
+81,Male,Single,No,Walk,Not Completed,79,71,67,Free/Reduced,Never,0,PhD,Group C
+82,Male,Divorced,No,Walk,Not Completed,48,44,45,Free/Reduced,Regularly,3,PhD,Group A
+83,Male,Divorced,No,Bus,Not Completed,72,64,67,Free/Reduced,Regularly,4,High School,Group D
+84,Female,Divorced,Yes,Bike,Not Completed,86,89,94,Standard,Never,0,High School,Group C
+85,Female,Single,Yes,Walk,Not Completed,50,42,45,Free/Reduced,Regularly,1,Bachelor,Group C
+86,Female,Widowed,No,Walk,Completed,88,93,86,Free/Reduced,Regularly,1,Bachelor,Group D
+87,Female,Divorced,Yes,Car,Not Completed,47,45,34,Free/Reduced,Never,3,Master,Group A
+88,Male,Divorced,Yes,Bus,Not Completed,60,70,72,Free/Reduced,Never,3,High School,Group B
+89,Male,Widowed,Yes,Bus,Completed,91,100,92,Standard,Sometimes,3,Master,Group D
+90,Male,Married,No,Van,Not Completed,99,96,100,Free/Reduced,Regularly,5,Master,Group B
+91,Female,Married,No,Van,Not Completed,65,68,65,Standard,Sometimes,2,Bachelor,Group A
+92,Female,Married,Yes,Walk,Completed,41,45,51,Standard,Never,1,High School,Group B
+93,Male,Single,Yes,Walk,Completed,89,92,88,Standard,Never,2,Bachelor,Group A
+94,Male,Single,No,Bus,Completed,38,48,42,Free/Reduced,Regularly,1,PhD,Group A
+95,Male,Divorced,Yes,Car,Completed,74,70,84,Standard,Never,5,Intermediate,Group C
+96,Female,Widowed,No,Car,Completed,71,81,65,Free/Reduced,Never,3,High School,Group A
+97,Female,Single,No,Van,Not Completed,72,78,65,Free/Reduced,Never,4,Master,Group D
+98,Female,Single,No,Car,Completed,39,46,50,Free/Reduced,Sometimes,3,PhD,Group D
+99,Male,Divorced,No,Bike,Not Completed,63,60,59,Standard,Regularly,0,High School,Group D
+100,Male,Married,No,Bus,Not Completed,88,87,79,Free/Reduced,Never,3,High School,Group C
+101,Female,Single,Yes,Car,Completed,55,62,64,Standard,Sometimes,4,Master,Group A
+102,Female,Married,No,Bus,Completed,73,76,75,Free/Reduced,Never,2,Master,Group C
+103,Male,Widowed,Yes,Bike,Completed,45,51,54,Standard,Never,4,Bachelor,Group D
+104,Female,Divorced,No,Walk,Completed,69,69,62,Standard,Regularly,1,Intermediate,Group A
+105,Male,Widowed,No,Van,Not Completed,61,57,68,Free/Reduced,Sometimes,1,Intermediate,Group A
+106,Female,Widowed,No,Bus,Completed,60,67,60,Free/Reduced,Never,0,High School,Group B
+107,Female,Single,No,Walk,Not Completed,96,100,100,Standard,Regularly,3,PhD,Group B
+108,Male,Single,No,Bus,Not Completed,71,64,77,Standard,Sometimes,0,PhD,Group A
+109,Female,Widowed,No,Walk,Completed,79,76,83,Free/Reduced,Regularly,2,Bachelor,Group D
+110,Female,Single,No,Van,Not Completed,48,45,37,Standard,Sometimes,2,Master,Group B
+111,Female,Married,Yes,Walk,Not Completed,84,89,76,Standard,Regularly,0,Bachelor,Group C
+112,Male,Married,Yes,Car,Not Completed,60,51,47,Free/Reduced,Never,4,Intermediate,Group C
+113,Female,Widowed,No,Walk,Not Completed,53,49,41,Standard,Sometimes,4,High School,Group C
+114,Female,Divorced,No,Bus,Completed,59,68,52,Free/Reduced,Sometimes,4,Intermediate,Group A
+115,Female,Single,No,Van,Not Completed,100,98,100,Standard,Regularly,3,High School,Group C
+116,Male,Married,Yes,Car,Not Completed,82,72,70,Standard,Sometimes,2,Master,Group D
+117,Female,Married,No,Bus,Not Completed,89,89,98,Standard,Never,5,PhD,Group C
+118,Female,Divorced,Yes,Van,Completed,95,86,82,Free/Reduced,Sometimes,5,PhD,Group B
+119,Male,Divorced,Yes,Van,Completed,66,59,62,Free/Reduced,Never,2,High School,Group C
+120,Female,Widowed,Yes,Bike,Completed,47,51,47,Standard,Regularly,2,High School,Group A
+121,Female,Widowed,Yes,Bike,Completed,100,96,90,Standard,Never,3,High School,Group D
+122,Female,Divorced,No,Bike,Completed,80,83,83,Free/Reduced,Sometimes,1,Master,Group D
+123,Female,Widowed,No,Bike,Completed,88,89,100,Standard,Sometimes,0,PhD,Group C
+124,Male,Divorced,Yes,Bike,Not Completed,91,85,79,Free/Reduced,Never,1,PhD,Group A
+125,Male,Married,No,Bus,Not Completed,96,92,93,Free/Reduced,Regularly,3,High School,Group C
+126,Male,Divorced,Yes,Bike,Completed,41,41,32,Free/Reduced,Sometimes,5,Bachelor,Group D
+127,Female,Married,No,Bike,Completed,69,79,64,Free/Reduced,Regularly,2,Bachelor,Group C
+128,Male,Widowed,Yes,Bus,Not Completed,40,43,42,Standard,Never,4,Intermediate,Group B
+129,Male,Divorced,Yes,Van,Not Completed,61,58,47,Standard,Never,5,High School,Group C
+130,Male,Married,No,Car,Completed,80,73,80,Free/Reduced,Sometimes,2,High School,Group C
+131,Male,Married,No,Bike,Completed,59,62,71,Free/Reduced,Never,2,Bachelor,Group D
+132,Female,Married,No,Bus,Not Completed,75,80,69,Standard,Regularly,1,High School,Group C
+133,Female,Widowed,No,Bus,Completed,74,72,78,Free/Reduced,Sometimes,0,Master,Group C
+134,Male,Widowed,No,Car,Not Completed,92,91,92,Standard,Sometimes,5,PhD,Group C
+135,Female,Widowed,Yes,Car,Completed,83,91,98,Free/Reduced,Sometimes,0,High School,Group C
+136,Female,Widowed,Yes,Car,Not Completed,63,59,68,Free/Reduced,Regularly,5,Master,Group D
+137,Female,Widowed,No,Van,Completed,71,80,65,Standard,Regularly,4,PhD,Group A
+138,Male,Divorced,No,Car,Completed,41,44,54,Standard,Never,3,Master,Group C
+139,Female,Single,No,Car,Not Completed,80,88,90,Free/Reduced,Regularly,0,High School,Group B
+140,Female,Married,No,Walk,Not Completed,75,73,79,Standard,Never,2,PhD,Group B
+141,Male,Single,No,Bus,Not Completed,40,48,46,Free/Reduced,Never,0,Intermediate,Group C
+142,Female,Single,No,Van,Completed,89,94,100,Standard,Regularly,1,Bachelor,Group D
+143,Male,Divorced,No,Van,Completed,70,63,72,Standard,Regularly,2,PhD,Group D
+144,Female,Married,Yes,Walk,Completed,92,89,96,Free/Reduced,Sometimes,5,Intermediate,Group C
+145,Male,Single,Yes,Car,Completed,100,96,100,Standard,Never,1,Master,Group B
+146,Male,Divorced,Yes,Walk,Completed,57,60,57,Free/Reduced,Regularly,5,Master,Group A
+147,Male,Single,No,Van,Completed,85,77,73,Standard,Regularly,0,Intermediate,Group C
+148,Male,Married,No,Van,Not Completed,97,89,94,Free/Reduced,Sometimes,1,PhD,Group C
+149,Female,Widowed,No,Car,Not Completed,35,44,32,Standard,Sometimes,4,Bachelor,Group C
+150,Female,Single,No,Van,Completed,87,86,86,Free/Reduced,Regularly,3,High School,Group C
+151,Female,Married,No,Car,Not Completed,49,55,43,Standard,Regularly,2,Intermediate,Group C
+152,Male,Widowed,No,Walk,Not Completed,83,88,88,Standard,Regularly,3,Intermediate,Group D
+153,Male,Married,Yes,Walk,Not Completed,61,53,56,Free/Reduced,Sometimes,4,High School,Group A
+154,Female,Divorced,No,Walk,Completed,46,48,58,Free/Reduced,Regularly,4,Intermediate,Group B
+155,Female,Widowed,No,Van,Not Completed,74,75,64,Standard,Regularly,0,PhD,Group C
+156,Female,Single,Yes,Van,Not Completed,76,75,87,Standard,Regularly,0,Bachelor,Group C
+157,Female,Single,No,Van,Not Completed,77,73,67,Standard,Sometimes,4,Master,Group C
+158,Female,Widowed,Yes,Walk,Not Completed,93,85,86,Standard,Sometimes,4,Master,Group A
+159,Female,Single,Yes,Van,Not Completed,66,56,73,Standard,Never,5,Intermediate,Group D
+160,Male,Married,Yes,Bus,Not Completed,89,92,79,Free/Reduced,Sometimes,1,PhD,Group B
+161,Female,Married,Yes,Van,Completed,81,72,79,Free/Reduced,Never,3,Intermediate,Group D
+162,Female,Divorced,No,Walk,Not Completed,55,51,58,Standard,Regularly,2,Intermediate,Group C
+163,Male,Divorced,Yes,Car,Not Completed,99,100,100,Free/Reduced,Sometimes,4,Master,Group C
+164,Male,Widowed,No,Bike,Not Completed,83,76,79,Standard,Sometimes,5,High School,Group C
+165,Female,Widowed,Yes,Bike,Not Completed,79,81,91,Free/Reduced,Regularly,0,Intermediate,Group B
+166,Male,Single,Yes,Bus,Not Completed,49,43,41,Free/Reduced,Never,3,High School,Group B
+167,Male,Widowed,No,Bike,Not Completed,70,75,73,Free/Reduced,Sometimes,5,High School,Group A
+168,Male,Widowed,Yes,Bus,Not Completed,65,74,62,Free/Reduced,Regularly,5,Master,Group A
+169,Male,Married,No,Walk,Not Completed,67,59,70,Free/Reduced,Regularly,4,PhD,Group C
+170,Male,Single,No,Walk,Completed,84,91,85,Standard,Never,2,Master,Group B
+171,Male,Widowed,No,Bus,Not Completed,89,79,84,Standard,Regularly,1,PhD,Group C
+172,Male,Single,No,Walk,Not Completed,38,40,39,Free/Reduced,Never,5,Intermediate,Group A
+173,Female,Single,Yes,Bus,Not Completed,82,81,91,Free/Reduced,Regularly,3,Intermediate,Group C
+174,Male,Single,Yes,Bike,Not Completed,79,80,78,Standard,Sometimes,5,Intermediate,Group C
+175,Female,Single,Yes,Van,Completed,91,84,90,Free/Reduced,Never,5,Master,Group A
+176,Male,Single,Yes,Bike,Not Completed,50,43,50,Free/Reduced,Regularly,5,Bachelor,Group D
+177,Male,Married,No,Bike,Not Completed,100,97,100,Free/Reduced,Never,0,Intermediate,Group D
+178,Female,Divorced,Yes,Bike,Completed,76,86,81,Standard,Sometimes,2,High School,Group A
+179,Male,Divorced,No,Bike,Completed,100,99,88,Free/Reduced,Sometimes,3,PhD,Group D
+180,Female,Divorced,Yes,Bike,Not Completed,52,45,40,Standard,Never,1,High School,Group A
+181,Female,Widowed,Yes,Bike,Not Completed,76,69,73,Free/Reduced,Regularly,2,Bachelor,Group A
+182,Male,Married,Yes,Bike,Completed,94,91,99,Standard,Never,0,PhD,Group A
+183,Male,Widowed,Yes,Van,Completed,78,87,82,Standard,Regularly,4,Master,Group B
+184,Female,Divorced,Yes,Walk,Completed,85,76,92,Standard,Sometimes,2,Master,Group A
+185,Male,Widowed,Yes,Walk,Not Completed,83,80,86,Free/Reduced,Never,3,PhD,Group B
+186,Female,Widowed,Yes,Bike,Not Completed,59,64,73,Standard,Sometimes,0,Intermediate,Group D
+187,Female,Widowed,Yes,Walk,Completed,81,75,70,Free/Reduced,Never,0,PhD,Group C
+188,Male,Divorced,No,Van,Completed,70,74,61,Standard,Regularly,4,Intermediate,Group B
+189,Female,Married,Yes,Bike,Completed,53,53,50,Free/Reduced,Regularly,5,Intermediate,Group B
+190,Female,Divorced,No,Car,Not Completed,95,98,100,Free/Reduced,Sometimes,2,Master,Group D
+191,Female,Divorced,Yes,Walk,Not Completed,51,46,60,Free/Reduced,Regularly,4,Bachelor,Group B
+192,Male,Widowed,No,Bike,Completed,63,56,65,Free/Reduced,Regularly,3,Intermediate,Group B
+193,Female,Divorced,No,Car,Not Completed,85,75,89,Free/Reduced,Regularly,5,Master,Group B
+194,Male,Single,Yes,Van,Completed,93,86,92,Standard,Never,0,High School,Group D
+195,Male,Married,Yes,Bus,Completed,100,93,91,Free/Reduced,Sometimes,0,Intermediate,Group D
+196,Female,Widowed,Yes,Bus,Not Completed,35,41,43,Free/Reduced,Regularly,4,PhD,Group B
+197,Male,Single,Yes,Bike,Not Completed,91,98,98,Free/Reduced,Sometimes,3,High School,Group C
+198,Female,Single,No,Bus,Completed,77,69,68,Standard,Sometimes,3,PhD,Group D
+199,Male,Single,Yes,Car,Not Completed,70,80,85,Free/Reduced,Never,0,Intermediate,Group A
+200,Male,Divorced,Yes,Bus,Not Completed,61,53,60,Standard,Regularly,2,High School,Group B
+201,Male,Divorced,Yes,Van,Completed,90,88,79,Free/Reduced,Never,4,Master,Group D
+202,Male,Divorced,Yes,Bus,Not Completed,82,90,90,Standard,Regularly,2,Intermediate,Group D
+203,Female,Widowed,No,Bike,Not Completed,51,41,42,Free/Reduced,Sometimes,1,Intermediate,Group D
+204,Male,Single,Yes,Bus,Not Completed,98,89,90,Standard,Sometimes,5,Bachelor,Group D
+205,Female,Married,No,Car,Not Completed,56,63,49,Free/Reduced,Regularly,1,High School,Group B
+206,Female,Widowed,Yes,Bus,Completed,75,68,76,Free/Reduced,Never,0,Intermediate,Group C
+207,Female,Widowed,Yes,Van,Completed,39,40,40,Standard,Never,3,Bachelor,Group B
+208,Female,Single,Yes,Bike,Not Completed,57,59,61,Free/Reduced,Sometimes,2,PhD,Group A
+209,Female,Widowed,Yes,Car,Completed,53,56,65,Standard,Sometimes,0,PhD,Group C
+210,Female,Divorced,No,Van,Completed,91,91,93,Free/Reduced,Sometimes,4,Bachelor,Group D
+211,Female,Divorced,No,Van,Completed,53,51,50,Free/Reduced,Sometimes,2,PhD,Group C
+212,Male,Single,Yes,Car,Completed,100,99,93,Free/Reduced,Sometimes,5,High School,Group D
+213,Female,Single,No,Bike,Not Completed,58,48,50,Free/Reduced,Regularly,3,Intermediate,Group D
+214,Female,Widowed,Yes,Walk,Completed,80,74,87,Standard,Regularly,5,Master,Group B
+215,Male,Widowed,No,Car,Completed,86,76,90,Standard,Regularly,2,Bachelor,Group B
+216,Female,Single,No,Bus,Not Completed,65,63,66,Standard,Sometimes,3,High School,Group A
+217,Male,Widowed,Yes,Van,Not Completed,61,62,59,Free/Reduced,Sometimes,0,PhD,Group D
+218,Female,Married,Yes,Walk,Completed,43,44,32,Standard,Never,1,Intermediate,Group B
+219,Male,Widowed,Yes,Car,Completed,68,61,65,Standard,Never,5,PhD,Group D
+220,Male,Widowed,No,Car,Completed,96,87,85,Standard,Regularly,2,High School,Group A
+221,Male,Widowed,Yes,Walk,Not Completed,63,63,57,Free/Reduced,Never,3,Intermediate,Group D
+222,Male,Single,No,Van,Completed,63,62,64,Standard,Sometimes,0,Bachelor,Group C
+223,Male,Single,No,Car,Completed,52,51,61,Free/Reduced,Sometimes,1,PhD,Group B
+224,Male,Single,No,Car,Completed,70,71,62,Free/Reduced,Regularly,3,Bachelor,Group B
+225,Female,Widowed,No,Car,Not Completed,81,75,86,Free/Reduced,Sometimes,1,High School,Group A
+226,Male,Single,No,Bike,Not Completed,49,58,49,Free/Reduced,Never,4,High School,Group A
+227,Female,Married,No,Van,Completed,96,89,91,Free/Reduced,Regularly,5,Bachelor,Group C
+228,Male,Married,No,Bus,Completed,66,68,66,Standard,Never,4,Master,Group D
+229,Male,Single,Yes,Van,Not Completed,73,79,70,Free/Reduced,Never,4,Bachelor,Group C
+230,Female,Married,Yes,Car,Completed,66,58,58,Free/Reduced,Never,1,Bachelor,Group B
+231,Male,Widowed,No,Bike,Not Completed,85,85,80,Free/Reduced,Sometimes,3,High School,Group A
+232,Female,Divorced,No,Car,Not Completed,70,72,81,Standard,Never,0,PhD,Group C
+233,Male,Single,No,Bike,Not Completed,97,90,93,Free/Reduced,Sometimes,2,Master,Group B
+234,Female,Married,Yes,Bus,Not Completed,90,90,99,Standard,Regularly,1,PhD,Group D
+235,Male,Single,No,Bike,Not Completed,63,67,75,Standard,Never,2,Master,Group A
+236,Female,Married,No,Walk,Completed,92,82,80,Free/Reduced,Never,0,High School,Group A
+237,Male,Single,No,Bus,Completed,62,70,58,Free/Reduced,Regularly,3,Bachelor,Group D
+238,Male,Married,Yes,Walk,Not Completed,56,54,45,Free/Reduced,Regularly,3,Bachelor,Group B
+239,Male,Single,No,Walk,Completed,81,73,65,Standard,Sometimes,4,PhD,Group B
+240,Male,Married,No,Walk,Not Completed,90,97,85,Free/Reduced,Regularly,1,Master,Group A
+241,Male,Divorced,Yes,Walk,Completed,84,75,86,Standard,Never,3,Master,Group A
+242,Male,Single,No,Van,Completed,73,71,63,Standard,Sometimes,2,Bachelor,Group D
+243,Female,Single,No,Bus,Completed,70,63,75,Standard,Regularly,2,Bachelor,Group A
+244,Male,Divorced,No,Car,Not Completed,100,100,100,Standard,Never,4,Intermediate,Group B
+245,Female,Single,Yes,Van,Not Completed,44,45,34,Free/Reduced,Never,5,High School,Group C
+246,Female,Single,Yes,Car,Completed,83,86,73,Free/Reduced,Never,4,High School,Group C
+247,Male,Single,Yes,Bike,Not Completed,37,47,52,Free/Reduced,Never,4,Master,Group B
+248,Female,Married,Yes,Walk,Not Completed,46,48,58,Free/Reduced,Never,0,Master,Group A
+249,Female,Married,No,Van,Completed,75,69,71,Free/Reduced,Regularly,2,High School,Group A
+250,Male,Married,Yes,Bike,Completed,93,87,78,Free/Reduced,Sometimes,3,Bachelor,Group B
+251,Male,Single,No,Bike,Not Completed,85,75,81,Free/Reduced,Sometimes,0,Intermediate,Group C
+252,Male,Single,Yes,Car,Completed,63,72,60,Free/Reduced,Sometimes,2,Master,Group A
+253,Female,Divorced,No,Van,Completed,41,40,34,Free/Reduced,Sometimes,4,PhD,Group B
+254,Male,Married,Yes,Van,Not Completed,39,49,45,Standard,Sometimes,0,PhD,Group C
+255,Male,Widowed,No,Bus,Completed,59,53,51,Free/Reduced,Regularly,0,Bachelor,Group D
+256,Female,Married,Yes,Car,Completed,61,69,71,Standard,Sometimes,5,Bachelor,Group B
+257,Female,Divorced,No,Car,Not Completed,56,56,56,Standard,Regularly,1,Bachelor,Group A
+258,Male,Widowed,No,Car,Completed,41,46,45,Free/Reduced,Regularly,3,Master,Group D
+259,Female,Single,No,Van,Completed,87,94,80,Standard,Sometimes,1,High School,Group B
+260,Female,Divorced,No,Bike,Completed,71,65,57,Free/Reduced,Sometimes,4,Intermediate,Group B
+261,Male,Married,Yes,Bus,Completed,62,69,57,Standard,Regularly,3,Master,Group A
+262,Female,Married,Yes,Car,Completed,90,98,82,Standard,Sometimes,0,High School,Group D
+263,Male,Widowed,No,Bus,Not Completed,58,50,55,Free/Reduced,Regularly,2,Bachelor,Group B
+264,Female,Married,Yes,Walk,Not Completed,61,57,51,Free/Reduced,Never,3,High School,Group A
+265,Female,Single,Yes,Van,Completed,58,64,62,Free/Reduced,Never,2,PhD,Group D
+266,Female,Divorced,No,Walk,Completed,100,98,100,Standard,Sometimes,4,Bachelor,Group A
+267,Female,Divorced,Yes,Bike,Completed,48,43,49,Standard,Never,1,Master,Group A
+268,Male,Single,Yes,Bike,Not Completed,78,76,76,Free/Reduced,Never,0,Master,Group B
+269,Male,Divorced,Yes,Car,Completed,98,93,100,Standard,Regularly,1,Intermediate,Group B
+270,Male,Divorced,Yes,Bike,Not Completed,78,73,63,Standard,Sometimes,0,High School,Group B
+271,Male,Divorced,Yes,Walk,Not Completed,82,89,89,Standard,Sometimes,2,Master,Group B
+272,Male,Widowed,No,Bike,Not Completed,89,86,95,Standard,Never,4,Bachelor,Group D
+273,Female,Single,Yes,Van,Not Completed,85,86,77,Standard,Regularly,4,Master,Group B
+274,Male,Divorced,Yes,Bike,Not Completed,100,99,91,Free/Reduced,Regularly,5,High School,Group C
+275,Female,Single,Yes,Walk,Not Completed,38,40,33,Standard,Never,0,High School,Group D
+276,Female,Widowed,No,Car,Not Completed,89,86,80,Free/Reduced,Regularly,3,Intermediate,Group B
+277,Male,Divorced,Yes,Walk,Not Completed,60,68,53,Standard,Regularly,2,Bachelor,Group D
+278,Male,Married,No,Van,Not Completed,78,86,87,Standard,Sometimes,5,Bachelor,Group D
+279,Male,Single,Yes,Car,Not Completed,36,43,37,Free/Reduced,Sometimes,1,High School,Group A
+280,Female,Single,Yes,Walk,Completed,83,76,82,Free/Reduced,Regularly,2,Intermediate,Group D
+281,Male,Single,No,Bus,Not Completed,36,46,35,Standard,Sometimes,3,PhD,Group D
+282,Female,Widowed,Yes,Walk,Not Completed,55,45,55,Free/Reduced,Regularly,3,High School,Group C
+283,Female,Divorced,Yes,Bike,Completed,67,69,63,Standard,Never,2,Intermediate,Group D
+284,Male,Widowed,No,Van,Completed,66,75,70,Free/Reduced,Sometimes,0,PhD,Group A
+285,Male,Single,Yes,Bike,Completed,51,47,42,Standard,Sometimes,0,PhD,Group B
+286,Male,Divorced,Yes,Bus,Not Completed,100,93,92,Free/Reduced,Never,2,Master,Group D
+287,Male,Widowed,Yes,Car,Completed,99,90,100,Standard,Never,4,Intermediate,Group A
+288,Male,Divorced,No,Walk,Not Completed,69,76,69,Free/Reduced,Never,4,PhD,Group A
+289,Male,Widowed,Yes,Car,Not Completed,59,57,50,Standard,Regularly,5,PhD,Group C
+290,Female,Divorced,No,Car,Completed,41,41,38,Standard,Regularly,2,PhD,Group C
+291,Female,Married,Yes,Car,Completed,89,86,94,Free/Reduced,Never,3,Intermediate,Group C
+292,Male,Divorced,No,Bike,Completed,67,72,59,Standard,Regularly,1,High School,Group B
+293,Male,Single,No,Walk,Not Completed,60,69,63,Free/Reduced,Never,0,High School,Group B
+294,Female,Single,No,Van,Not Completed,80,71,77,Free/Reduced,Regularly,2,High School,Group C
+295,Male,Single,Yes,Bike,Completed,55,64,52,Free/Reduced,Never,3,Intermediate,Group A
+296,Male,Single,Yes,Bike,Not Completed,64,70,75,Free/Reduced,Never,5,Master,Group D
+297,Female,Divorced,Yes,Car,Not Completed,95,94,96,Free/Reduced,Never,0,High School,Group C
+298,Female,Married,No,Walk,Not Completed,52,59,58,Free/Reduced,Sometimes,5,Master,Group B
+299,Male,Widowed,No,Bike,Completed,70,73,60,Free/Reduced,Sometimes,2,PhD,Group D
+300,Female,Single,No,Bike,Not Completed,78,87,88,Free/Reduced,Never,2,Bachelor,Group B
+301,Female,Divorced,Yes,Walk,Completed,51,46,40,Standard,Sometimes,1,Master,Group D
+302,Female,Divorced,No,Bus,Not Completed,61,63,68,Standard,Never,4,Intermediate,Group A
+303,Female,Married,No,Van,Not Completed,92,96,98,Free/Reduced,Regularly,1,Bachelor,Group B
+304,Female,Single,No,Bike,Completed,74,66,72,Free/Reduced,Sometimes,5,Bachelor,Group C
+305,Male,Single,Yes,Van,Completed,44,40,38,Free/Reduced,Regularly,1,Intermediate,Group D
+306,Female,Widowed,Yes,Bus,Completed,68,65,69,Free/Reduced,Regularly,2,Intermediate,Group B
+307,Male,Single,Yes,Walk,Not Completed,73,83,86,Standard,Regularly,3,Intermediate,Group C
+308,Male,Divorced,No,Van,Not Completed,35,44,36,Free/Reduced,Never,1,Master,Group D
+309,Female,Widowed,Yes,Bike,Completed,84,88,79,Standard,Regularly,5,High School,Group B
+310,Male,Widowed,No,Van,Completed,73,63,57,Standard,Never,0,High School,Group A
+311,Male,Married,No,Car,Completed,70,66,68,Standard,Never,5,High School,Group C
+312,Female,Divorced,Yes,Car,Completed,75,82,87,Standard,Sometimes,0,High School,Group D
+313,Male,Divorced,Yes,Walk,Not Completed,74,78,88,Free/Reduced,Regularly,0,Intermediate,Group D
+314,Male,Single,Yes,Bus,Completed,89,84,84,Standard,Never,5,PhD,Group B
+315,Male,Married,No,Bike,Not Completed,95,89,82,Free/Reduced,Sometimes,3,High School,Group A
+316,Male,Divorced,No,Car,Completed,86,95,87,Standard,Regularly,0,Bachelor,Group B
+317,Female,Divorced,Yes,Walk,Not Completed,66,62,71,Standard,Regularly,3,PhD,Group D
+318,Female,Widowed,No,Bike,Completed,95,93,100,Standard,Never,5,High School,Group B
+319,Male,Widowed,Yes,Van,Not Completed,74,66,73,Free/Reduced,Never,0,Bachelor,Group D
+320,Female,Married,Yes,Walk,Not Completed,50,47,50,Standard,Never,5,Intermediate,Group B
+321,Female,Married,No,Bike,Not Completed,79,73,86,Free/Reduced,Never,5,PhD,Group B
+322,Male,Widowed,No,Bike,Completed,50,40,38,Free/Reduced,Sometimes,1,Master,Group C
+323,Male,Widowed,No,Bike,Completed,69,72,75,Free/Reduced,Sometimes,4,PhD,Group A
+324,Female,Widowed,Yes,Bus,Not Completed,68,68,59,Free/Reduced,Regularly,4,Intermediate,Group A
+325,Male,Divorced,Yes,Car,Not Completed,99,90,100,Free/Reduced,Regularly,1,PhD,Group C
+326,Female,Widowed,Yes,Bus,Completed,86,85,95,Standard,Sometimes,2,Master,Group C
+327,Male,Single,No,Bus,Not Completed,37,42,42,Standard,Regularly,0,PhD,Group B
+328,Female,Divorced,Yes,Car,Completed,88,92,100,Standard,Sometimes,3,Intermediate,Group B
+329,Female,Married,No,Van,Not Completed,46,40,54,Standard,Never,4,Bachelor,Group B
+330,Male,Divorced,No,Car,Completed,73,64,75,Free/Reduced,Sometimes,2,Master,Group D
+331,Male,Divorced,No,Van,Completed,51,48,56,Standard,Regularly,4,Master,Group C
+332,Male,Divorced,Yes,Walk,Not Completed,95,85,83,Free/Reduced,Never,5,Intermediate,Group C
+333,Female,Married,Yes,Car,Completed,81,91,90,Standard,Never,0,Bachelor,Group C
+334,Male,Married,No,Bike,Completed,56,58,49,Free/Reduced,Sometimes,0,Intermediate,Group B
+335,Female,Divorced,Yes,Car,Not Completed,61,55,68,Free/Reduced,Never,2,Intermediate,Group A
+336,Male,Widowed,Yes,Walk,Completed,85,87,80,Standard,Sometimes,3,Bachelor,Group A
+337,Male,Widowed,Yes,Car,Not Completed,57,51,45,Free/Reduced,Regularly,1,Intermediate,Group C
+338,Male,Single,Yes,Bike,Not Completed,65,61,73,Standard,Never,4,Master,Group D
+339,Female,Single,Yes,Van,Completed,44,44,48,Standard,Sometimes,4,Intermediate,Group D
+340,Male,Divorced,No,Walk,Not Completed,59,62,54,Standard,Never,4,PhD,Group A
+341,Male,Single,Yes,Bus,Not Completed,83,82,84,Free/Reduced,Regularly,3,Master,Group C
+342,Male,Divorced,No,Car,Completed,100,98,100,Free/Reduced,Never,1,Master,Group A
+343,Male,Married,Yes,Bike,Completed,57,50,58,Free/Reduced,Regularly,1,Intermediate,Group D
+344,Male,Widowed,No,Bus,Completed,81,87,72,Standard,Regularly,1,Master,Group A
+345,Male,Widowed,No,Car,Not Completed,96,98,98,Free/Reduced,Regularly,3,High School,Group A
+346,Male,Married,No,Van,Completed,96,88,81,Free/Reduced,Never,2,Intermediate,Group A
+347,Female,Widowed,Yes,Car,Completed,92,88,90,Standard,Regularly,5,PhD,Group C
+348,Male,Married,Yes,Bus,Completed,69,59,63,Standard,Never,4,PhD,Group A
+349,Female,Widowed,Yes,Bike,Completed,54,53,47,Standard,Never,2,Bachelor,Group A
+350,Male,Widowed,Yes,Walk,Completed,90,82,75,Free/Reduced,Regularly,1,Intermediate,Group D
+351,Female,Single,Yes,Walk,Completed,56,62,68,Standard,Sometimes,3,PhD,Group C
+352,Female,Divorced,No,Car,Completed,92,84,80,Standard,Sometimes,1,Bachelor,Group D
+353,Female,Divorced,No,Car,Not Completed,94,93,85,Free/Reduced,Sometimes,3,Intermediate,Group A
+354,Male,Divorced,Yes,Van,Completed,90,81,75,Free/Reduced,Never,5,High School,Group A
+355,Male,Married,No,Van,Completed,100,94,100,Standard,Never,2,Intermediate,Group D
+356,Male,Divorced,Yes,Car,Completed,65,63,59,Free/Reduced,Sometimes,4,High School,Group B
+357,Male,Widowed,Yes,Bike,Completed,94,88,83,Free/Reduced,Sometimes,0,Bachelor,Group D
+358,Male,Single,Yes,Bike,Not Completed,42,44,42,Free/Reduced,Sometimes,3,High School,Group A
+359,Female,Divorced,No,Van,Completed,52,46,57,Free/Reduced,Never,3,Master,Group A
+360,Female,Widowed,No,Walk,Not Completed,61,64,66,Free/Reduced,Never,0,Intermediate,Group B
+361,Female,Divorced,Yes,Bike,Completed,47,50,38,Standard,Sometimes,4,High School,Group B
+362,Female,Married,No,Car,Not Completed,91,91,100,Standard,Never,1,PhD,Group A
+363,Male,Single,Yes,Van,Completed,36,42,45,Standard,Regularly,1,Master,Group B
+364,Female,Married,No,Bus,Completed,86,78,90,Free/Reduced,Never,3,PhD,Group B
+365,Male,Single,Yes,Van,Not Completed,96,93,100,Standard,Never,5,Master,Group D
+366,Male,Single,Yes,Bus,Completed,56,54,55,Free/Reduced,Regularly,4,High School,Group B
+367,Female,Married,Yes,Bus,Not Completed,100,97,100,Standard,Never,4,High School,Group D
+368,Female,Widowed,Yes,Car,Not Completed,54,63,68,Free/Reduced,Never,5,Intermediate,Group A
+369,Female,Single,Yes,Walk,Not Completed,46,48,50,Free/Reduced,Regularly,0,High School,Group A
+370,Male,Divorced,No,Walk,Completed,74,64,63,Standard,Sometimes,5,Intermediate,Group C
+371,Female,Divorced,No,Car,Completed,100,94,98,Free/Reduced,Never,4,PhD,Group B
+372,Female,Divorced,No,Van,Not Completed,82,75,81,Free/Reduced,Never,1,High School,Group B
+373,Female,Single,No,Walk,Completed,85,90,78,Standard,Sometimes,5,High School,Group A
+374,Male,Married,Yes,Walk,Completed,79,70,75,Free/Reduced,Regularly,4,High School,Group D
+375,Female,Divorced,Yes,Bike,Not Completed,89,79,88,Free/Reduced,Regularly,1,Intermediate,Group C
+376,Male,Single,Yes,Bus,Not Completed,51,42,50,Standard,Never,0,Bachelor,Group A
+377,Female,Widowed,No,Van,Completed,91,89,89,Standard,Never,5,High School,Group A
+378,Female,Divorced,No,Walk,Completed,93,86,95,Standard,Sometimes,3,Intermediate,Group A
+379,Female,Married,Yes,Van,Not Completed,54,51,56,Free/Reduced,Regularly,4,Master,Group C
+380,Female,Single,No,Car,Not Completed,72,64,71,Standard,Sometimes,0,Master,Group A
+381,Female,Single,No,Car,Not Completed,77,80,87,Standard,Never,2,Bachelor,Group C
+382,Male,Single,No,Walk,Not Completed,65,65,55,Standard,Never,2,Bachelor,Group B
+383,Female,Single,No,Bike,Completed,83,87,80,Standard,Regularly,4,Master,Group B
+384,Male,Widowed,Yes,Van,Completed,39,47,52,Free/Reduced,Sometimes,4,Master,Group D
+385,Female,Divorced,No,Bike,Completed,66,71,80,Standard,Never,3,PhD,Group A
+386,Female,Married,No,Walk,Completed,60,65,64,Standard,Never,1,PhD,Group A
+387,Female,Single,No,Bike,Not Completed,72,63,63,Free/Reduced,Never,2,Master,Group B
+388,Female,Divorced,No,Car,Not Completed,63,67,66,Free/Reduced,Regularly,4,Bachelor,Group B
+389,Male,Widowed,No,Bike,Completed,84,86,80,Standard,Sometimes,0,Bachelor,Group D
+390,Female,Divorced,No,Walk,Not Completed,58,48,57,Standard,Sometimes,0,Bachelor,Group A
+391,Male,Married,No,Walk,Not Completed,90,92,94,Free/Reduced,Sometimes,4,Intermediate,Group C
+392,Female,Divorced,Yes,Van,Completed,44,41,33,Free/Reduced,Sometimes,2,Intermediate,Group D
+393,Female,Divorced,No,Bike,Completed,88,96,92,Free/Reduced,Sometimes,5,Intermediate,Group D
+394,Male,Single,No,Walk,Not Completed,40,45,40,Free/Reduced,Never,5,PhD,Group C
+395,Female,Widowed,No,Bike,Completed,90,89,100,Standard,Regularly,5,Bachelor,Group C
+396,Male,Married,Yes,Bus,Not Completed,48,53,50,Standard,Regularly,3,Intermediate,Group A
+397,Male,Married,No,Walk,Completed,65,56,52,Standard,Never,2,PhD,Group B
+398,Male,Married,No,Walk,Not Completed,68,73,58,Free/Reduced,Never,2,Intermediate,Group D
+399,Male,Widowed,No,Van,Not Completed,100,100,93,Free/Reduced,Sometimes,4,Bachelor,Group A
+400,Female,Divorced,Yes,Walk,Completed,60,59,60,Standard,Never,1,Master,Group C
+401,Female,Widowed,No,Walk,Completed,64,74,79,Free/Reduced,Sometimes,4,Bachelor,Group A
+402,Female,Widowed,No,Bike,Completed,55,52,58,Free/Reduced,Sometimes,1,Master,Group A
+403,Female,Divorced,No,Van,Not Completed,77,80,82,Free/Reduced,Regularly,0,Bachelor,Group B
+404,Female,Widowed,No,Van,Not Completed,57,47,54,Standard,Sometimes,0,Bachelor,Group A
+405,Male,Divorced,Yes,Car,Completed,44,51,44,Standard,Regularly,1,High School,Group D
+406,Male,Widowed,No,Car,Completed,64,61,59,Free/Reduced,Regularly,1,High School,Group C
+407,Female,Single,Yes,Walk,Not Completed,51,44,50,Standard,Regularly,5,Bachelor,Group D
+408,Female,Widowed,Yes,Van,Completed,46,55,44,Free/Reduced,Sometimes,5,Master,Group C
+409,Male,Married,No,Car,Not Completed,71,80,86,Standard,Sometimes,0,Bachelor,Group A
+410,Male,Married,Yes,Walk,Completed,83,80,79,Free/Reduced,Regularly,0,High School,Group D
+411,Male,Single,No,Bus,Not Completed,55,63,54,Standard,Regularly,2,Bachelor,Group A
+412,Male,Divorced,No,Bike,Completed,68,71,67,Free/Reduced,Sometimes,5,Bachelor,Group C
+413,Male,Divorced,No,Bike,Completed,75,71,78,Free/Reduced,Sometimes,5,PhD,Group C
+414,Male,Widowed,No,Walk,Not Completed,50,44,39,Free/Reduced,Regularly,5,Intermediate,Group D
+415,Male,Divorced,Yes,Walk,Completed,86,96,98,Free/Reduced,Regularly,4,PhD,Group B
+416,Female,Divorced,Yes,Bus,Completed,63,60,69,Standard,Regularly,1,High School,Group B
+417,Male,Married,No,Car,Not Completed,67,71,60,Standard,Sometimes,1,Intermediate,Group A
+418,Male,Widowed,Yes,Car,Completed,95,99,100,Free/Reduced,Never,5,PhD,Group C
+419,Male,Married,Yes,Walk,Completed,100,92,92,Standard,Never,0,High School,Group B
+420,Female,Single,Yes,Van,Not Completed,48,52,54,Standard,Never,4,Master,Group D
+421,Female,Single,No,Van,Not Completed,89,96,85,Standard,Never,4,PhD,Group C
+422,Female,Widowed,No,Walk,Completed,75,75,74,Standard,Sometimes,4,Master,Group C
+423,Female,Married,No,Van,Completed,70,68,57,Standard,Sometimes,0,Master,Group B
+424,Male,Divorced,Yes,Bus,Completed,94,94,82,Free/Reduced,Sometimes,1,Bachelor,Group C
+425,Female,Single,No,Walk,Completed,100,96,93,Free/Reduced,Never,1,High School,Group C
+426,Female,Married,No,Bus,Not Completed,56,51,63,Standard,Regularly,2,Master,Group D
+427,Female,Single,Yes,Car,Completed,92,99,100,Free/Reduced,Never,0,Master,Group B
+428,Female,Married,No,Car,Completed,69,72,62,Standard,Sometimes,2,PhD,Group B
+429,Male,Married,No,Walk,Completed,53,61,60,Free/Reduced,Never,3,Bachelor,Group B
+430,Female,Widowed,Yes,Van,Completed,71,75,76,Standard,Regularly,2,PhD,Group C
+431,Male,Divorced,No,Bike,Not Completed,50,47,49,Free/Reduced,Never,5,High School,Group C
+432,Male,Single,No,Bus,Completed,71,62,68,Standard,Never,2,Bachelor,Group A
+433,Male,Single,No,Bus,Not Completed,78,87,77,Standard,Sometimes,3,PhD,Group A
+434,Female,Single,No,Van,Not Completed,60,53,50,Standard,Never,5,High School,Group D
+435,Male,Divorced,Yes,Van,Not Completed,51,56,42,Standard,Sometimes,5,High School,Group A
+436,Female,Divorced,Yes,Bus,Not Completed,80,82,90,Free/Reduced,Regularly,3,Intermediate,Group A
+437,Female,Married,Yes,Bike,Not Completed,80,71,80,Standard,Regularly,1,Intermediate,Group C
+438,Female,Single,Yes,Walk,Not Completed,73,71,83,Free/Reduced,Never,2,Bachelor,Group C
+439,Male,Married,No,Bike,Completed,78,80,79,Free/Reduced,Sometimes,5,Bachelor,Group A
+440,Female,Single,No,Bike,Completed,82,73,85,Free/Reduced,Sometimes,4,Master,Group D
+441,Male,Single,Yes,Walk,Completed,63,53,50,Free/Reduced,Regularly,5,Intermediate,Group B
+442,Female,Married,Yes,Walk,Completed,51,44,52,Standard,Sometimes,3,PhD,Group C
+443,Female,Divorced,Yes,Bike,Completed,97,87,100,Standard,Regularly,0,Intermediate,Group C
+444,Male,Married,No,Bus,Not Completed,75,78,71,Standard,Never,4,PhD,Group C
+445,Male,Widowed,Yes,Bike,Completed,96,94,98,Standard,Regularly,3,High School,Group C
+446,Female,Single,Yes,Bike,Not Completed,50,54,64,Free/Reduced,Never,2,PhD,Group B
+447,Female,Widowed,No,Car,Completed,56,65,67,Standard,Sometimes,3,High School,Group B
+448,Female,Widowed,Yes,Bike,Not Completed,78,87,87,Free/Reduced,Sometimes,2,Master,Group D
+449,Male,Married,Yes,Car,Not Completed,66,67,73,Standard,Never,4,High School,Group B
+450,Male,Widowed,Yes,Bike,Not Completed,68,65,64,Standard,Sometimes,0,Master,Group C
+451,Male,Married,No,Walk,Completed,78,85,71,Free/Reduced,Never,4,Intermediate,Group B
+452,Female,Single,No,Van,Completed,77,75,65,Standard,Regularly,1,High School,Group D
+453,Female,Single,Yes,Bike,Completed,63,59,58,Standard,Never,2,High School,Group D
+454,Female,Married,No,Bike,Completed,99,94,100,Free/Reduced,Sometimes,3,PhD,Group A
+455,Male,Single,Yes,Bike,Completed,62,55,54,Standard,Never,2,High School,Group B
+456,Male,Divorced,No,Bus,Completed,90,82,93,Standard,Sometimes,1,Bachelor,Group C
+457,Male,Married,Yes,Walk,Not Completed,77,69,72,Free/Reduced,Sometimes,0,PhD,Group A
+458,Female,Divorced,No,Van,Not Completed,64,70,58,Standard,Never,1,Intermediate,Group A
+459,Male,Married,No,Van,Not Completed,86,76,85,Free/Reduced,Never,2,Master,Group C
+460,Male,Widowed,No,Bike,Completed,87,79,86,Free/Reduced,Regularly,0,High School,Group A
+461,Female,Single,No,Car,Completed,73,80,87,Free/Reduced,Sometimes,4,Bachelor,Group A
+462,Male,Married,No,Walk,Not Completed,83,84,79,Standard,Regularly,5,Master,Group C
+463,Female,Married,Yes,Bike,Not Completed,94,86,97,Free/Reduced,Never,3,PhD,Group A
+464,Male,Widowed,No,Car,Not Completed,64,70,75,Standard,Never,2,Intermediate,Group C
+465,Male,Divorced,No,Bus,Completed,61,53,66,Free/Reduced,Regularly,2,PhD,Group B
+466,Female,Divorced,No,Bus,Not Completed,60,51,46,Free/Reduced,Regularly,3,Bachelor,Group C
+467,Female,Divorced,Yes,Bus,Not Completed,92,93,86,Standard,Regularly,0,PhD,Group A
+468,Female,Single,No,Car,Not Completed,100,97,90,Free/Reduced,Regularly,0,Intermediate,Group B
+469,Male,Widowed,Yes,Bus,Not Completed,77,86,83,Standard,Never,4,High School,Group C
+470,Female,Divorced,Yes,Van,Not Completed,87,96,82,Standard,Sometimes,1,Bachelor,Group C
+471,Female,Widowed,Yes,Walk,Completed,74,74,86,Standard,Sometimes,0,High School,Group A
+472,Male,Divorced,No,Bike,Not Completed,75,74,79,Standard,Regularly,0,Master,Group C
+473,Female,Widowed,Yes,Bus,Not Completed,37,43,30,Standard,Regularly,3,PhD,Group B
+474,Female,Divorced,Yes,Van,Completed,80,79,76,Free/Reduced,Never,1,High School,Group D
+475,Male,Widowed,No,Bike,Completed,68,69,77,Standard,Never,2,Master,Group D
+476,Male,Widowed,No,Bus,Completed,84,84,82,Free/Reduced,Regularly,2,PhD,Group D
+477,Male,Single,Yes,Car,Completed,59,58,65,Free/Reduced,Never,5,High School,Group C
+478,Female,Single,Yes,Van,Completed,73,65,70,Free/Reduced,Sometimes,0,Master,Group B
+479,Female,Divorced,Yes,Bike,Completed,93,90,97,Free/Reduced,Regularly,4,Intermediate,Group D
+480,Female,Single,No,Car,Completed,68,75,73,Standard,Never,4,PhD,Group C
+481,Female,Single,Yes,Van,Completed,72,81,66,Standard,Never,1,PhD,Group C
+482,Female,Single,Yes,Walk,Not Completed,87,79,85,Free/Reduced,Sometimes,5,Master,Group A
+483,Male,Single,No,Bus,Not Completed,85,79,82,Standard,Regularly,5,Intermediate,Group C
+484,Male,Single,No,Van,Not Completed,94,95,82,Free/Reduced,Never,3,PhD,Group D
+485,Female,Single,No,Bike,Completed,70,74,81,Free/Reduced,Sometimes,3,Bachelor,Group C
+486,Male,Married,Yes,Car,Not Completed,38,48,33,Standard,Regularly,1,PhD,Group D
+487,Female,Widowed,No,Car,Not Completed,74,79,78,Standard,Regularly,3,Intermediate,Group A
+488,Female,Divorced,No,Van,Not Completed,91,94,100,Standard,Regularly,4,PhD,Group C
+489,Male,Married,Yes,Van,Not Completed,82,77,89,Free/Reduced,Never,0,Intermediate,Group A
+490,Male,Married,No,Van,Completed,80,70,86,Free/Reduced,Never,0,PhD,Group D
+491,Female,Divorced,No,Walk,Completed,76,76,77,Standard,Never,4,Master,Group C
+492,Male,Single,Yes,Walk,Completed,85,80,88,Free/Reduced,Sometimes,0,Bachelor,Group A
+493,Female,Divorced,No,Walk,Completed,50,56,60,Standard,Never,1,Intermediate,Group B
+494,Female,Single,No,Bike,Completed,58,63,56,Free/Reduced,Regularly,1,Intermediate,Group B
+495,Female,Widowed,Yes,Car,Completed,91,88,100,Standard,Never,5,Master,Group A
+496,Female,Single,No,Car,Not Completed,81,88,73,Free/Reduced,Sometimes,5,Intermediate,Group B
+497,Female,Divorced,Yes,Van,Not Completed,85,83,87,Standard,Sometimes,3,PhD,Group C
+498,Male,Divorced,No,Van,Not Completed,53,46,57,Free/Reduced,Sometimes,2,High School,Group C
+499,Female,Single,No,Bike,Not Completed,66,69,78,Standard,Never,0,High School,Group A
+500,Female,Widowed,No,Bike,Not Completed,52,46,40,Free/Reduced,Regularly,0,High School,Group A
